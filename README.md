@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 I am **Joy Biswas**, I'm currently studying Diploma in CSE and soon will start my Internship.I like listening to Music, watching Movies, TV Shows & Anime.I'm a Linux enthusiast and Arch Linux is my favourite.
 
 ![Profile views](https://gpvc.arturio.dev/joybiswas007)
-[![Metrics](https://github.com/joybiswas007/joybiswas007/actions/workflows/metrics.yml/badge.svg)](https://github.com/joybiswas007/joybiswas007/actions/workflows/metrics.yml)
 
 ## ⚙️ Technologies & Tools
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00599C)
