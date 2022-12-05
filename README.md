@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
-I am **Joy Biswas**, I'm currently studying Diploma in CSE and soon will start my Internship.I like listening to Music, watching Movies, TV Shows & Anime.I'm a Linux enthusiast and Arch Linux is my favourite.
+I am **Joy Biswas**, and I've recently finished Diploma in Computer Science & Engineering. I love listening to music and watching movies. I'm a Linux enthusiast, and Arch Linux is my favorite.
 
 ![Profile views](https://gpvc.arturio.dev/joybiswas007)
 
