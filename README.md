@@ -1,7 +1,5 @@
 # joybiswas007
 
-### Hi there 👋
-
 <!--
 **joybiswas007/joybiswas007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,9 +36,9 @@ My primary hobbies are:
 
 
 ## &#x1f4c8; GitHub Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=joybiswas007&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="joybiswas007" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joybiswas007&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="joybiswas007" />
 
- <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/joybiswas007"><img src="https://github-profile-trophy.vercel.app/?username=joybiswas007&margin-w=5&theme=radical" alt="joybiswas007" /></a> </p>
+<summary><b>🏆 Github Achievements</b></summary>
+<a href="https://github.com/joybiswas007"><img src="https://github-profile-trophy.vercel.app/?username=joybiswas007&margin-w=5&theme=radical" alt="joybiswas007" /></a>
 
 <br>
