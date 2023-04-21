@@ -24,12 +24,14 @@ My primary hobbies are:
 
 ## ⚙️ Technologies & Tools
 ![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
-![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=black&color=0078D6)
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=007ACC)
