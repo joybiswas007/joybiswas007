@@ -13,6 +13,7 @@ My primary hobbies are:
 - Problem Solving
 
 Check out my blog: https://joy-blogs.pages.dev/
+
 Find me on: [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/joybiswas23) | [Fiverr](https://www.fiverr.com/joybiswas007) 
 
 ## ⚙️ Technologies & Tools
