@@ -23,6 +23,8 @@ My primary hobbies are:
 - Open-Source Contribution
 - Problem Solving
 
+Check out my blog: https://joy-blogs.pages.dev/
+
 ## ⚙️ Technologies & Tools
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
