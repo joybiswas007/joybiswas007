@@ -2,17 +2,6 @@
 
 <!--
 **joybiswas007/joybiswas007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on some sekret projects
-- 🌱 I’m currently learning Go and P
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 # Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
@@ -24,6 +13,7 @@ My primary hobbies are:
 - Problem Solving
 
 Check out my blog: https://joy-blogs.pages.dev/
+Find me on: [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/joybiswas23) | [Fiverr](https://www.fiverr.com/joybiswas007) 
 
 ## ⚙️ Technologies & Tools
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
