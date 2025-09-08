@@ -12,11 +12,11 @@ My primary hobbies are:
 - Open-Source Contribution
 - Problem Solving
 
-Socials: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joybtw/) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/fakejoybtw)
+Socials: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joybtw/) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/joybiswas1337)
 
 Find me on: [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/joybiswas23) [Fiverr](https://www.fiverr.com/joybiswas007) 
 
-Check out my blog: https://blog.joybtw.com/
+Check out my blog: [https://blog.joybtw.com/](https://joybtw.substack.com/)
 
 ## ⚙️ Technologies & Tools
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
