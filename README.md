@@ -5,12 +5,10 @@
 -->
 
 # Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
-I am **Joy Biswas**, who is always committed to his works and goals. I am also a fast learner and passionate about implementing and launching new projects and ideas. I am also very fond of open-source software and always trying to find a way to contribute to them.
-My primary hobbies are:
-- Listening to music
-- Programming
-- Open-Source Contribution
-- Problem Solving
+I'm **Joy Biswas**, a backend developer who enjoys building and learning new things. Most of
+the time, I build things for my personal use and share them on GitHub. I love the challenges
+that come with the development process. When I'm not coding, I enjoy reading technical
+blog posts, watching movies, or listening to music.
 
 Socials: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joybtw/) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/joybiswas1337)
 
